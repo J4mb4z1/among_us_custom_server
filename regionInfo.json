@@ -2,5 +2,5 @@
 	{"$type":"DnsRegionInfo, Assembly-CSharp","Fqdn":"na.mm.among.us","DefaultIp":"50.116.1.42","Port":22023,"Name":"North America","TranslateName":289,"UseDtls":true},
 	{"$type":"DnsRegionInfo, Assembly-CSharp","Fqdn":"eu.mm.among.us","DefaultIp":"172.105.251.170","Port":22023,"Name":"Europe","TranslateName":290,"UseDtls":true},
 	{"$type":"DnsRegionInfo, Assembly-CSharp","Fqdn":"as.mm.among.us","DefaultIp":"139.162.111.196","Port":22023,"Name":"Asia","TranslateName":291,"UseDtls":true},
-	{"$type":"DnsRegionInfo, Assembly-CSharp","Fqdn":"95.84.38.2","DefaultIp":"95.84.38.2","Port":22023,"Name":"P1-K4","TranslateName":1003,"UseDtls":false}
+	{"$type":"DnsRegionInfo, Assembly-CSharp","Fqdn":"88.147.230.249","DefaultIp":"88.147.230.249","Port":22023,"Name":"P1-K4","TranslateName":1003,"UseDtls":false}
 ]}
